@@ -1,5 +1,7 @@
-### Hi there 👋
+### Daniel Valderrama 👋
 
+Actualmente trabajo para Banjercito, tengo 8 años en la institucion en el area de Informatica. 
+Estudie la carrera de Ingenieria en Sistemas Computacionales en el Tecnologico de Estudios Suuperirores de Cuautitlan Izcalli.
 <!--
 **davare10/davare10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
